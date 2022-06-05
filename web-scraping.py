@@ -25,12 +25,15 @@ def get_website(url):
 def get_ingredients(url):
     temp = get_website(url)
     result = []
+    ingredient_type = {}
     for i in temp:
         t = i.attrs
         if "data-ingredient" in t:
             result.append(t["data-ingredient"])
+            ingredient_type[t["data-ingredient"]] = t["data-store_location"]
     print(result)
-    return result
+    print(ingredient_type)
+    return result, ingredient_type
 
 def get_quant(url):
     temp = get_website(url)
@@ -108,9 +111,9 @@ u = "https://www.allrecipes.com/recipe/24074/alysias-basic-meat-lasagna/"
 #get_website(u)
 #get_toollist("Kitchentools.txt")
 #get_step(u)
-get_tool(u)
-get_method(u)
-#get_ingredients(u)
+# get_tool(u)
+# get_method(u)
+get_ingredients(u)
 #get_quant(u)
 #get_unit(u)
     
