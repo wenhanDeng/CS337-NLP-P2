@@ -21,6 +21,11 @@ def get_website(url):
 
     return result
 
+def get_title(url):
+    req = requests.get(url)
+    soup = BeautifulSoup(req.text, "html.parser")
+    result=soup.find("title")
+    return result.text
 
 def get_ingredients(url):
     temp = get_website(url)
