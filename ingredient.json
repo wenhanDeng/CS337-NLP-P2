@@ -1,0 +1,820 @@
+{"ingredients": {
+    "protein": {
+      "anchovies": [],
+      "bacon": [],
+      "bass": [],
+      "beef": [
+        "chinese"
+      ],
+      "beef jerky": [],
+      "bison": [],
+      "black cod": [],
+      "blowfish": [
+        "chinese"
+      ],
+      "bluefish": [],
+      "buffalo": [],
+      "catfish": [
+        "chinese"
+      ],
+      "caviar": [
+        "chinese"
+      ],
+      "chicken breast": [
+        "chinese"
+      ],
+      "chicken thigh": [
+        "chinese"
+      ],
+      "cod": [
+        "chinese"
+      ],
+      "crab": [
+        "chinese"
+      ],
+      "crayfish": [],
+      "cuttlefish": [
+        "chinese"
+      ],
+      "duck": [
+        "chinese"
+      ],
+      "eel": [
+        "chinese"
+      ],
+      "escargot": [],
+      "eye of round steak": [],
+      "flounder": [
+        "chinese"
+      ],
+      "haddock": [
+        "chinese"
+      ],
+      "halibut": [
+        "chinese"
+      ],
+      "ham": [],
+      "herring": [
+        "chinese"
+      ],
+      "hot dog": [],
+      "jellyfish": [
+        "chinese"
+      ],
+      "lamb": [
+        "chinese"
+      ],
+      "lamprey": [
+        "chinese"
+      ],
+      "lobster": [
+        "chinese"
+      ],
+      "masago": [],
+      "monkfish": [
+        "chinese"
+      ],
+      "mussels": [
+        "chinese"
+      ],
+      "octopus": [
+        "chinese"
+      ],
+      "oyster": [
+        "chinese"
+      ],
+      "pheasant": [
+        "chinese"
+      ],
+      "pike": [
+        "chinese"
+      ],
+      "pork": [
+        "chinese"
+      ],
+      "pork tenderloin": [
+        "chinese"
+      ],
+      "quail": [
+        "chinese"
+      ],
+      "roast beef": [],
+      "salmon": [
+        "chinese"
+      ],
+      "scallops": [
+        "chinese"
+      ],
+      "sea cucumber": [
+        "chinese"
+      ],
+      "seitan": [
+        "vegetarian"
+      ],
+      "shark": [
+        "chinese"
+      ],
+      "sheep's meat": [
+        "chinese"
+      ],
+      "shrimp": [
+        "chinese"
+      ],
+      "snails": [
+        "chinese"
+      ],
+      "steak": [],
+      "swordfish": [
+        "chinese"
+      ],
+      "tempeh": [
+        "chinese",
+        "vegetarian"
+      ],
+      "tilapia": [],
+      "tofu": [
+        "chinese",
+        "vegetarian"
+      ],
+      "trout": [
+        "chinese"
+      ],
+      "tuna": [
+        "chinese"
+      ],
+      "turkey": [],
+      "turkey breast": [],
+      "veal": [
+        "chinese"
+      ],
+      "venison": []
+    },
+    "sauces": {
+      "a1 sauce": [],
+      "adobo mojado": [],
+      "agliata": [],
+      "agrodolce": [],
+      "aioli": [],
+      "ajika": [],
+      "ajilimójili": [],
+      "ají": [],
+      "ají sauce": [],
+      "albert sauce": [],
+      "alfredo": [],
+      "alfredo sauce": [],
+      "alioli": [],
+      "allemande sauce": [],
+      "amatriciana sauce": [],
+      "anchovy essence": [],
+      "apple sauce": [],
+      "arrabbiata sauce": [],
+      "au jus": [],
+      "avgolemono": [],
+      "avocado sauce": [],
+      "babi panggang sauce": [],
+      "baconnaise": [],
+      "bagna càuda": [],
+      "bagoong": [],
+      "bajan pepper sauce": [],
+      "banana ketchup": [],
+      "barbecue sauce": [],
+      "barese ragù": [],
+      "beurre blanc": [],
+      "beurre manie": [],
+      "beurre monté": [],
+      "beurre noir": [],
+      "beurre noisette": [],
+      "bicky sauce": [],
+      "blueberry sauce": [],
+      "bolognese": [],
+      "bolognese sauce": [],
+      "bordelaise sauce": [],
+      "bow wow sauce": [
+        "chinese"
+      ],
+      "brasil sauce": [],
+      "bread sauce": [],
+      "breton sauce": [],
+      "brown gravy": [],
+      "brown sauce": [],
+      "budu": [],
+      "buffalo sauce": [],
+      "butterscotch sauce": [],
+      "béarnaise sauce": [],
+      "béchamel sauce": [],
+      "café de paris": [],
+      "café de paris sauce": [],
+      "capital sauce": [],
+      "carbonara": [],
+      "caruso sauce": [],
+      "cebolada": [],
+      "chancaca": [],
+      "chancho en piedra": [],
+      "charcutiere sauce": [],
+      "chasseur": [],
+      "chateaubriand sauce": [],
+      "chaudfroid sauce": [],
+      "checca sauce": [],
+      "cheddar sauce": [],
+      "cheez whiz": [],
+      "chermoula": [],
+      "chile pepper-tinged sauces": [
+        "chinese"
+      ],
+      "chili sauce": [
+        "chinese"
+      ],
+      "chilli soy lime": [],
+      "chimichurri": [],
+      "chocolate gravy": [],
+      "chocolate syrup": [],
+      "cincalok": [],
+      "cincinnati chili": [],
+      "cocktail sauce": [
+        "chinese"
+      ],
+      "coffee sauce": [],
+      "colo-colo": [],
+      "comeback sauce": [],
+      "condiments portal": [],
+      "coney sauce": [],
+      "cooked sauces": [],
+      "corn sauce": [],
+      "coulis": [],
+      "cranberry sauce": [],
+      "crème anglaise": [],
+      "cumberland sauce": [],
+      "custard": [],
+      "dabu-dabu": [],
+      "daddies": [],
+      "datil pepper sauce": [],
+      "demi glace": [],
+      "donair sauce": [],
+      "doubanjiang": [
+        "chinese"
+      ],
+      "duck sauce": [
+        "chinese"
+      ],
+      "duckefett": [],
+      "egusi sauce": [],
+      "enchilada sauce": [],
+      "filfel chuma": [],
+      "fish sauce": [
+        "chinese"
+      ],
+      "food portal": [],
+      "fra diavolo sauce": [],
+      "francesinha sauce": [],
+      "frankfurt green sauce": [],
+      "fritessaus": [],
+      "fry sauce": [],
+      "fudge sauce": [],
+      "garlic sauce": [
+        "chinese"
+      ],
+      "garum": [],
+      "gravy": [],
+      "gremolata": [],
+      "guacamole": [],
+      "halford leicestershire table sauce": [],
+      "halvaytar": [],
+      "hard sauce": [],
+      "harissa": [],
+      "henry bain sauce": [],
+      "hogao": [],
+      "hoisin sauce": [],
+      "hollandaise sauce": [],
+      "honey garlic sauce": [
+        "chinese"
+      ],
+      "horseradish sauce": [],
+      "hot sauces": [
+        "chinese"
+      ],
+      "hp sauce": [],
+      "huancaina": [
+        "chinese"
+      ],
+      "japanese pickled plum sauce": [],
+      "joppiesaus": [],
+      "ketchup": [],
+      "khrenovina sauce": [],
+      "korean soy sauce": [],
+      "latik": [],
+      "liver sauce": [],
+      "llajwa": [],
+      "lobster sauce": [
+        "chinese"
+      ],
+      "maafe": [],
+      "maggi": [],
+      "magic shell": [],
+      "mahyawa": [],
+      "mala sauce": [
+        "chinese"
+      ],
+      "mango sauce": [
+        "chinese"
+      ],
+      "marie rose sauce": [],
+      "marinara sauce": [],
+      "melitzanosalata": [],
+      "meuniere sauce": [],
+      "mignonette sauce": [],
+      "mint sauce": [
+        "chinese"
+      ],
+      "mirin": [],
+      "moambe": [],
+      "mojito isleño": [],
+      "mojo": [],
+      "mojo criollo": [],
+      "mojo sauce": [],
+      "mole": [],
+      "mornay sauce": [],
+      "mostaza la pasiva": [],
+      "muhammara": [],
+      "mujde": [],
+      "mujdei": [],
+      "mumbo sauce": [],
+      "mushroom gravy": [],
+      "mushroom ketchup": [
+        "chinese"
+      ],
+      "mushroom sauce": [],
+      "mustard": [],
+      "mustard condiment": [],
+      "mustard sauces": [],
+      "nam chim": [],
+      "nam chim gai": [],
+      "nam chim seafood": [],
+      "nam phrik": [],
+      "nantua sauce": [],
+      "neapolitan ragù": [],
+      "neapolitan sauce": [],
+      "normande sauce": [],
+      "nước chấm": [],
+      "ok sauce": [
+        "chinese"
+      ],
+      "old sour": [],
+      "onion gravy": [],
+      "onion sauce": [],
+      "oxford sauce": [
+        "chinese"
+      ],
+      "oyster sauce": [
+        "chinese"
+      ],
+      "padaek": [],
+      "pan sauce": [
+        "chinese"
+      ],
+      "parsley sauce": [],
+      "peach sauce": [],
+      "peanut sauce": [
+        "chinese"
+      ],
+      "pebre": [],
+      "pecel": [],
+      "pepper sauces": [
+        "chinese"
+      ],
+      "peppercorn sauce": [
+        "chinese"
+      ],
+      "persillade": [],
+      "pesto": [],
+      "picadillo": [],
+      "picantina": [],
+      "pickapeppa sauce": [],
+      "pico de gallo": [],
+      "pique": [],
+      "pique sauce": [],
+      "pique verde": [],
+      "pla ra": [],
+      "plum sauce": [
+        "chinese"
+      ],
+      "ponzu": [],
+      "poutine sauce": [],
+      "prego": [],
+      "prik nam pra": [],
+      "ragù": [],
+      "ragù alla salsiccia": [],
+      "rainbow sauce": [],
+      "ravigote": [],
+      "ravigote sauce": [],
+      "recaíto": [],
+      "red-eye gravy": [],
+      "redcurrant sauce": [],
+      "remoulade": [],
+      "romesco": [],
+      "romesco sauce": [],
+      "rouennaise sauce": [],
+      "rouille": [],
+      "sahawiq": [],
+      "salad cream": [],
+      "salad dressing": [],
+      "salsa": [],
+      "salsa criolla": [],
+      "salsa golf": [],
+      "salsa lizano": [],
+      "salsa verde": [],
+      "salvitxada": [],
+      "sambal": [],
+      "satay sauce": [],
+      "satsivi": [],
+      "satzibeli": [],
+      "sauce africaine": [],
+      "sauce allemande": [],
+      "sauce américaine": [],
+      "sauce andalouse": [],
+      "sauce au poivre": [],
+      "sauce aurore": [],
+      "sauce bercy": [],
+      "sauce bourguignonne": [],
+      "sauce béchamel": [],
+      "sauce charcutière": [],
+      "sauce espagnole": [],
+      "sauce gribiche": [],
+      "sauce hollandaise": [],
+      "sauce lyonnaise": [],
+      "sauce poivrade": [],
+      "sauce poulette": [],
+      "sauce robert": [],
+      "sauce tomate": [],
+      "sauce velouté": [],
+      "sauce vierge": [],
+      "sauce vin blanc": [],
+      "saus cabai": [],
+      "sausage gravy": [
+        "chinese"
+      ],
+      "savore sanguino": [],
+      "see  green sauce": [],
+      "shacha sauce": [],
+      "shito": [],
+      "shottsuru": [],
+      "shrewsbury sauce": [],
+      "siu haau sauce": [],
+      "skordalia": [],
+      "sloppy joe": [],
+      "sofrito": [],
+      "soubise sauce": [],
+      "sour cream sauce": [],
+      "soy sauce": [
+        "chinese"
+      ],
+      "sriracha sauce": [],
+      "ssamjang": [],
+      "steak sauce": [
+        "chinese"
+      ],
+      "strawberry sauce": [
+        "chinese"
+      ],
+      "sugo all'amatriciana": [],
+      "sugo alla puttanesca": [],
+      "suprême sauce": [],
+      "sweet and sour sauce": [
+        "chinese"
+      ],
+      "sweet bean sauce": [
+        "chinese"
+      ],
+      "sweet chili sauce": [
+        "chinese"
+      ],
+      "sweet soy sauce": [
+        "chinese"
+      ],
+      "syrup": [],
+      "tabasco sauce": [
+        "chinese"
+      ],
+      "taramasalata": [],
+      "tare sauce": [],
+      "tartar sauce": [],
+      "tentsuyu": [],
+      "teriyaki": [],
+      "tewkesbury mustard": [],
+      "tianmianjiang": [],
+      "tkemali": [],
+      "tomato sauce": [
+        "chinese"
+      ],
+      "tonkatsu sauce": [],
+      "toum": [],
+      "tuco": [],
+      "tucupi": [],
+      "tzatziki": [],
+      "tương": [],
+      "umeboshi paste": [],
+      "velouté sauce": [],
+      "venetian sauce": [],
+      "vinagrete": [],
+      "vinaigrette": [],
+      "vincotto": [],
+      "vizcaína": [],
+      "vodka sauce": [],
+      "whisky sauce": [],
+      "white sauce": [],
+      "wine sauce": [],
+      "worcestershire sauce": [],
+      "wow-wow sauce": [],
+      "xató": [],
+      "xo sauce": [
+        "chinese"
+      ],
+      "yogurt sauce": [
+        "chinese"
+      ],
+      "zabaione": [],
+      "zigeuner sauce": []
+    },
+    "spices": {
+      "butter":[],
+      "adobo": [],
+      "allspice": [],
+      "anise extract": ["chinese"],
+      "anise seed": ["chinese"],
+      "basil": ["chinese"],
+      "bay leaf": [
+        "chinese"
+      ],
+      "green bell pepper":[],
+      "black pepper": ["chinese"],
+      "black peppercorns": ["chinese"],
+      "black salt": [],
+      "black truffle salt": [],
+      "brown sugar": ["chinese"],
+      "cajun seasoning": [],
+      "calabrian chili peppers": [],
+      "cane sugar": [],
+      "caraway seeds": [],
+      "caraway, ground": [],
+      "cardamom": [
+        "chinese"
+      ],
+      "cardamom seeds": [],
+      "cayenne pepper": [],
+      "chili": ["chinese"],
+      "chive": [],
+      "cilantro": ["chinese"],
+      "cloves": [
+        "chinese"
+      ],
+      "cocoa nibs": [],
+      "coriander": ["chinese"],
+      "cumin": [],
+      "cumin seeds": [],
+      "dill": [],
+      "dill seed": [],
+      "dried chili": [
+        "chinese"
+      ],
+      "fennel": [
+        "chinese"
+      ],
+      "fennel seeds": ["chinese"],
+      "garam masala": [],
+      "garlic": [
+        "chinese"
+      ],
+      "garlic powder": [
+        "chinese"
+      ],
+      "ghost chili pepper": [],
+      "ghost pepper": [],
+      "ginger": [
+        "chinese"
+      ],
+      "ginger root": [
+        "chinese"
+      ],
+      "grapefruit": [],
+      "green mango": [],
+      "green peppercorns": ["chinese"],
+      "green serrano chile": [],
+      "guajillo chile": [],
+      "guajillo chiles": [],
+      "habanero": [],
+      "habanero pepper": [],
+      "honey": ["chinese"],
+      "horseradish": [],
+      "hot chili": ["chinese"],
+      "italian herb seasoning": [],
+      "jamaican jerk seasoning": [],
+      "juniper berries": ["chinese"],
+      "lemon juice": [],
+      "lemon peel": [],
+      "lemon pepper": [],
+      "lemongrass": ["chinese"],
+      "lime juice": [],
+      "lime peel": [],
+      "maple sugar": [],
+      "molasses": [],
+      "mustard": [],
+      "mustard seeds": [],
+      "nutmeg": ["chinese"],
+      "orange peel": ["chinese"],
+      "oregano": ["chinese"],
+      "paprika": ["chinese"],
+      "parsley": [],
+      "parsley flakes": [],
+      "peppermint": ["chinese"],
+      "rosemary": ["chinese"],
+      "saffron": ["chinese"],
+      "sage": [],
+      "salt": ["chinese"],
+      "sassafras": [],
+      "sea salt": ["chinese"],
+      "sesame seeds": ["chinese"],
+      "shallots": ["chinese"],
+      "star anise": [
+        "chinese"
+      ],
+      "szechuan peppercorns": [
+        "chinese"
+      ],
+      "tamarind": ["chinese"],
+      "tandoori": [],
+      "tarragon": ["chinese"],
+      "thyme": ["chinese"],
+      "turmeric": ["chinese"],
+      "vanilla extract": ["chinese"],
+      "white pepper": [
+        "chinese"
+      ]
+    },
+    "vegetables": {
+      "amaranth": [
+        "chinese"
+      ],
+      "amaranth leaves": [
+        "chinese"
+      ],
+      "arrowroot": [],
+      "artichoke": [],
+      "arugula": [],
+      "asparagus": [
+        "chinese"
+      ],
+      "bamboo shoots": [
+        "chinese"
+      ],
+      "beets": [
+        "chinese"
+      ],
+      "belgian endive": [],
+      "bitter melon": [],
+      "bok choy": [
+        "chinese"
+      ],
+      "broccoli": [
+        "chinese"
+      ],
+      "broccoli rabe": [],
+      "brussel sprouts": [],
+      "butternut squash": [],
+      "carrot": [
+        "chinese"
+      ],
+      "cassava": [],
+      "cauliflower": [
+        "chinese"
+      ],
+      "celeriac": [],
+      "celery": [
+        "chinese"
+      ],
+      "celery root": [],
+      "chayote": [],
+      "chicory": [],
+      "collards": [],
+      "corn": [],
+      "crookneck": [],
+      "cucumber": [],
+      "curly endive": [],
+      "daikon": [],
+      "dandelion greens": [],
+      "edamame": [
+        "chinese"
+      ],
+      "eggplant": [
+        "chinese"
+      ],
+      "fava beans": [],
+      "fennel": [],
+      "fiddleheads": [],
+      "green beans": [
+        "chinese"
+      ],
+      "green cabbage": [
+        "chinese"
+      ],
+      "green onion": [
+        "chinese"
+      ],
+      "green peas": [],
+      "green pepper": [
+        "chinese"
+      ],
+      "horseradish": ["chinese"],
+      "iceberg lettuce": [],
+      "jicama": [],
+      "kale": [],
+      "kohlrabi": [],
+      "leaf lettuce": [],
+      "leeks": [],
+      "mushrooms": [
+        "chinese"
+      ],
+      "mustard greens": [
+        "chinese"
+      ],
+      "napa cabbage": [
+        "chinese"
+      ],
+      "okra": [
+        "chinese"
+      ],
+      "onions": [
+        "chinese"
+      ],
+      "oysterplant": [],
+      "parsnip": [],
+      "pea leaves": [
+        "chinese"
+      ],
+      "pea shoots": [
+        "chinese"
+      ],
+      "peas": [
+        "chinese"
+      ],
+      "pumpkin": [],
+      "radicchio": [],
+      "radishes": [],
+      "red cabbage": [
+        "chinese"
+      ],
+      "red onion": [],
+      "red pepper": [
+        "chinese"
+      ],
+      "red potato": [
+        "chinese"
+      ],
+      "romaine lettuce": [],
+      "rutabaga": [],
+      "salsify": [],
+      "shallots": [],
+      "shepherds purse": [
+        "chinese"
+      ],
+      "snow peas": [
+        "chinese"
+      ],
+      "sorrel": [],
+      "soybeans": [
+        "chinese"
+      ],
+      "spaghetti squash": [],
+      "spinach": [
+        "chinese"
+      ],
+      "sugar snap peas": [],
+      "sweet potato": [
+        "chinese"
+      ],
+      "sweet red pepper": [],
+      "swiss chard": [],
+      "tomatillo": [],
+      "tomato": [
+        "chinese"
+      ],
+      "turnip": [],
+      "water spinach": [
+        "chinese"
+      ],
+      "watercress": [
+        "chinese"
+      ],
+      "white potato": [
+        "chinese"
+      ],
+      "yam root": [],
+      "yellow onion": [
+        "chinese"
+      ],
+      "yellow potato": [
+        "chinese"
+      ],
+      "yuca root": [],
+      "zucchini": []
+    }
+  }
+}
